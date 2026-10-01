@@ -4,3 +4,7 @@ python-dotenv
 groq
 pytesseract
 pillow
+reportlab
+fastapi
+uvicorn[standard]
+python-multipart
